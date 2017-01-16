@@ -10,4 +10,7 @@ Since both 2 and 3 with display the correct reverse order, #4 is correct.
 Exlporing More ls Arguments
 ls allows one to see a list. The -l shows information such as size and modification time while -h makes a file called "human readable" or something simpler for reading
 
+Listing Recursively and By Time
+Combining "ls-R -t" will provide the output of directories listed in alphabetical for each level and sorted by last edits within each directory
+
 
