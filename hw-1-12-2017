@@ -7,4 +7,7 @@ Since the "ls../backup" script will display what is found in that file you would
 ls Reading Comprehension
 Since both 2 and 3 with display the correct reverse order, #4 is correct. 
 
+Exlporing More ls Arguments
+ls allows one to see a list. The -l shows information such as size and modification time while -h makes a file called "human readable" or something simpler for reading
+
 
